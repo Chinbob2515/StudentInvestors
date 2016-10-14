@@ -6,8 +6,12 @@ The main file you need to use is Investor.py, and its StudentInvestor object.
 Most uses are self-evident.
 
 Initiate the StudentInvestor object- investor = StudentInvestor("User", "pass")
+
 Sell stocks- investor.sellStock("III:LON", "max")
+
 Buy stocks- investor.buyStock("III:LON", "max")
+
 Get stock data- stocks = investor.getStocks()
+
 Get team investement date- invs = investor.getInvestements()
 
