@@ -1,0 +1,152 @@
+III:LN:3i Group PLC
+ADM:LN:Admiral Group PLC
+AAL:LN:Anglo American PLC
+ANTO:LN:Antofagasta PLC
+AHT:LN:Ashtead Group PLC
+ABF:LN:Associated British Foods PLC
+AZN:LN:AstraZeneca PLC
+AV/:LN:Aviva PLC
+BAB:LN:Babcock International Group PLC
+BA/:LN:BAE Systems PLC
+BARC:LN:Barclays PLC
+BDEV:LN:Barratt Developments PLC
+BLT:LN:BHP Billiton PLC
+BP/:LN:BP PLC
+BATS:LN:British American Tobacco PLC
+BLND:LN:British Land Co PLC
+BT/A:LN:BT Group PLC
+BNZL:LN:Bunzl PLC
+BRBY:LN:Burberry Group PLC
+CPI:LN:Capita PLC
+CCL:LN:Carnival PLC
+CNA:LN:Centrica PLC
+CCH:LN:Coca-Cola HBC AG
+CPG:LN:Compass Group PLC
+CRH:LN:CRH PLC
+DCC:LN:DCC PLC
+DGE:LN:Diageo PLC
+DLG:LN:Direct Line Insurance Group PLC
+DC/:LN:Dixons Carphone PLC
+EZJ:LN:easyJet PLC
+EXPN:LN:Experian PLC
+FRES:LN:Fresnillo PLC
+GKN:LN:GKN PLC
+GSK:LN:GlaxoSmithKline PLC
+GLEN:LN:Glencore PLC
+HMSO:LN:Hammerson PLC
+HL/:LN:Hargreaves Lansdown PLC
+HIK:LN:Hikma Pharmaceuticals PLC
+HSBA:LN:HSBC Holdings PLC
+IMB:LN:Imperial Brands PLC
+INF:LN:Informa PLC
+IHG:LN:InterContinental Hotels Group PLC
+IAG:LN:International Consolidated Airlines Group SA
+ITRK:LN:Intertek Group PLC
+INTU:LN:Intu Properties PLC
+ITV:LN:ITV PLC
+SBRY:LN:J Sainsbury PLC
+JMAT:LN:Johnson Matthey PLC
+KGF:LN:Kingfisher PLC
+LAND:LN:Land Securities Group PLC
+LGEN:LN:Legal &amp; General Group PLC
+LLOY:LN:Lloyds Banking Group PLC
+LSE:LN:London Stock Exchange Group PLC
+MKS:LN:Marks &amp; Spencer Group PLC
+MDC:LN:Mediclinic International PLC
+MERL:LN:Merlin Entertainments PLC
+MCRO:LN:Micro Focus International PLC
+MNDI:LN:Mondi PLC
+NG/:LN:National Grid PLC
+NXT:LN:Next PLC
+OML:LN:Old Mutual PLC
+PPB:LN:Paddy Power Betfair PLC
+PSON:LN:Pearson PLC
+PSN:LN:Persimmon PLC
+POLY:LN:Polymetal International PLC
+PFG:LN:Provident Financial PLC
+PRU:LN:Prudential PLC
+RRS:LN:Randgold Resources Ltd
+RB/:LN:Reckitt Benckiser Group PLC
+REL:LN:RELX PLC
+RIO:LN:Rio Tinto PLC
+RR/:LN:Rolls-Royce Holdings PLC
+RBS:LN:Royal Bank of Scotland Group PLC
+RDSA:LN:Royal Dutch Shell PLC
+RMG:LN:Royal Mail PLC
+RSA:LN:RSA Insurance Group PLC
+SAB:LN:SABMiller PLC
+SGE:LN:Sage Group PLC/The
+SDR:LN:Schroders PLC
+SVT:LN:Severn Trent PLC
+SHP:LN:Shire PLC
+SKY:LN:Sky PLC
+SN/:LN:Smith &amp; Nephew PLC
+SMIN:LN:Smiths Group PLC
+SSE:LN:SSE PLC
+STJ:LN:St James's Place PLC
+STAN:LN:Standard Chartered PLC
+SL/:LN:Standard Life PLC
+TW/:LN:Taylor Wimpey PLC
+TSCO:LN:Tesco PLC
+TPK:LN:Travis Perkins PLC
+TUI:LN:TUI AG
+ULVR:LN:Unilever PLC
+UU/:LN:United Utilities Group PLC
+VOD:LN:Vodafone Group PLC
+WTB:LN:Whitbread PLC
+MRW:LN:Wm Morrison Supermarkets PLC
+WOS:LN:Wolseley PLC
+WPG:LN:Worldpay Group PLC
+WPP:LN:WPP PLC
+ABC:LN:Abcam PLC
+AN/:LN:Alternative Networks PLC
+ASHM:LN:Ashmore Group PLC
+BBA:LN:BBA Aviation PLC
+BKG:LN:Berkeley Group Holdings PLC
+BYG:LN:Big Yellow Group PLC
+BVIC:LN:Britvic PLC
+CHG:LN:Chemring Group PLC
+CCC:LN:Computacenter PLC
+DMGT:LN:Daily Mail &amp; General Trust PLC
+DEB:LN:Debenhams PLC
+DLN:LN:Derwent London PLC
+DSG:LN:Dillistone Group PLC
+DOM:LN:Domino's Pizza Group PLC
+DRX:LN:Drax Group PLC
+ECM:LN:Electrocomponents PLC
+ELM:LN:Elementis PLC
+ETI:LN:Enterprise Inns PLC
+EVR:LN:Evraz PLC
+FXPO:LN:Ferrexpo PLC
+FGP:LN:Firstgroup PLC
+GNS:LN:Genus PLC
+HFD:LN:Halfords Group PLC
+HWDN:LN:Howden Joinery Group PLC
+HCM:LN:Hutchison China MediTech Ltd
+IAP:LN:ICAP PLC
+INCH:LN:Inchcape PLC
+JDW:LN:J D Wetherspoon PLC
+JD/:LN:JD Sports Fashion PLC
+KBT:LN:K3 Business Technology Group PLC
+KAZ:LN:KAZ Minerals PLC
+LAM:LN:Lamprell PLC
+MLD:LN:MirLand Development Corp PLC
+MONY:LN:Moneysupermarket.com Group PLC
+MPE:LN:MP Evans Group PLC
+NEX:LN:National Express Group PLC
+OCDO:LN:Ocado Group PLC
+PNN:LN:Pennon Group PLC
+QQ/:LN:QinetiQ Group PLC
+RNK:LN:Rank Group PLC
+RTO:LN:Rentokil Initial PLC
+RMV:LN:Rightmove PLC
+SVS:LN:Savills PLC
+SHB:LN:Shaftesbury PLC
+SHI:LN:SIG PLC
+TALK:LN:TalkTalk Telecom Group PLC
+VEC:LN:Vectura Group PLC
+VSVS:LN:Vesuvius PLC
+YOU:LN:YouGov PLC
+ZYT:LN:Zytronic PLC
+
+

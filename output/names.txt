@@ -1,0 +1,150 @@
+<tr><th scope="row"><a href="stock-info.php?ticker=III:LN">3i Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ADM:LN">Admiral Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=AAL:LN">Anglo American PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ANTO:LN">Antofagasta PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=AHT:LN">Ashtead Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ABF:LN">Associated British Foods PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=AZN:LN">AstraZeneca PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=AV/:LN">Aviva PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BAB:LN">Babcock International Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BA/:LN">BAE Systems PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BARC:LN">Barclays PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BDEV:LN">Barratt Developments PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BLT:LN">BHP Billiton PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BP/:LN">BP PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BATS:LN">British American Tobacco PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BLND:LN">British Land Co PLC/The</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BT/A:LN">BT Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BNZL:LN">Bunzl PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BRBY:LN">Burberry Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CPI:LN">Capita PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCL:LN">Carnival PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CNA:LN">Centrica PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCH:LN">Coca-Cola HBC AG</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CPG:LN">Compass Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CRH:LN">CRH PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DCC:LN">DCC PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DGE:LN">Diageo PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DLG:LN">Direct Line Insurance Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DC/:LN">Dixons Carphone PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=EZJ:LN">easyJet PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=EXPN:LN">Experian PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=FRES:LN">Fresnillo PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=GKN:LN">GKN PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=GSK:LN">GlaxoSmithKline PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=GLEN:LN">Glencore PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HMSO:LN">Hammerson PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HL/:LN">Hargreaves Lansdown PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HIK:LN">Hikma Pharmaceuticals PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HSBA:LN">HSBC Holdings PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=IMB:LN">Imperial Brands PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=INF:LN">Informa PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=IHG:LN">InterContinental Hotels Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=IAG:LN">International Consolidated Airlines Group SA</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ITRK:LN">Intertek Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=INTU:LN">Intu Properties PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ITV:LN">ITV PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SBRY:LN">J Sainsbury PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=JMAT:LN">Johnson Matthey PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=KGF:LN">Kingfisher PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=LAND:LN">Land Securities Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=LGEN:LN">Legal &amp; General Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=LLOY:LN">Lloyds Banking Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=LSE:LN">London Stock Exchange Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MKS:LN">Marks &amp; Spencer Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MDC:LN">Mediclinic International PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MERL:LN">Merlin Entertainments PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MCRO:LN">Micro Focus International PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MNDI:LN">Mondi PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=NG/:LN">National Grid PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=NXT:LN">Next PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=OML:LN">Old Mutual PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PPB:LN">Paddy Power Betfair PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PSON:LN">Pearson PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PSN:LN">Persimmon PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=POLY:LN">Polymetal International PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PFG:LN">Provident Financial PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PRU:LN">Prudential PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RRS:LN">Randgold Resources Ltd</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RB/:LN">Reckitt Benckiser Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=REL:LN">RELX PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RIO:LN">Rio Tinto PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RR/:LN">Rolls-Royce Holdings PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RBS:LN">Royal Bank of Scotland Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RDSA:LN">Royal Dutch Shell PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RMG:LN">Royal Mail PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RSA:LN">RSA Insurance Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SAB:LN">SABMiller PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SGE:LN">Sage Group PLC/The</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SDR:LN">Schroders PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SVT:LN">Severn Trent PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHP:LN">Shire PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SKY:LN">Sky PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SN/:LN">Smith &amp; Nephew PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SMIN:LN">Smiths Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SSE:LN">SSE PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=STJ:LN">St James's Place PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=STAN:LN">Standard Chartered PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SL/:LN">Standard Life PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=TW/:LN">Taylor Wimpey PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=TSCO:LN">Tesco PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=TPK:LN">Travis Perkins PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=TUI:LN">TUI AG</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ULVR:LN">Unilever PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=UU/:LN">United Utilities Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=VOD:LN">Vodafone Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=WTB:LN">Whitbread PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MRW:LN">Wm Morrison Supermarkets PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=WOS:LN">Wolseley PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=WPG:LN">Worldpay Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=WPP:LN">WPP PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ABC:LN">Abcam PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=AN/:LN">Alternative Networks PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ASHM:LN">Ashmore Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BBA:LN">BBA Aviation PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BKG:LN">Berkeley Group Holdings PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BYG:LN">Big Yellow Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=BVIC:LN">Britvic PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CHG:LN">Chemring Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCC:LN">Computacenter PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DMGT:LN">Daily Mail &amp; General Trust PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DEB:LN">Debenhams PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DLN:LN">Derwent London PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DSG:LN">Dillistone Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DOM:LN">Domino's Pizza Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=DRX:LN">Drax Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ECM:LN">Electrocomponents PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ELM:LN">Elementis PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ETI:LN">Enterprise Inns PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=EVR:LN">Evraz PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=FXPO:LN">Ferrexpo PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=FGP:LN">Firstgroup PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=GNS:LN">Genus PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HFD:LN">Halfords Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HWDN:LN">Howden Joinery Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=HCM:LN">Hutchison China MediTech Ltd</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=IAP:LN">ICAP PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=INCH:LN">Inchcape PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=JDW:LN">J D Wetherspoon PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=JD/:LN">JD Sports Fashion PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=KBT:LN">K3 Business Technology Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=KAZ:LN">KAZ Minerals PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=LAM:LN">Lamprell PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MLD:LN">MirLand Development Corp PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MONY:LN">Moneysupermarket.com Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=MPE:LN">MP Evans Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=NEX:LN">National Express Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=OCDO:LN">Ocado Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=PNN:LN">Pennon Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=QQ/:LN">QinetiQ Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RNK:LN">Rank Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RTO:LN">Rentokil Initial PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=RMV:LN">Rightmove PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SVS:LN">Savills PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHB:LN">Shaftesbury PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHI:LN">SIG PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=TALK:LN">TalkTalk Telecom Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=VEC:LN">Vectura Group PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=VSVS:LN">Vesuvius PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=YOU:LN">YouGov PLC</a></th>
+<tr><th scope="row"><a href="stock-info.php?ticker=ZYT:LN">Zytronic PLC</a></th>

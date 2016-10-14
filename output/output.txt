@@ -1,0 +1,1482 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Poultry Effort walk purposefully into the Trading Room</title>
+  <meta name="description" content="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="info@refinedpractice.com" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.studentinvestor.org/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.studentinvestor.org/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.studentinvestor.org/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.studentinvestor.org/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://www.studentinvestor.org/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.studentinvestor.org/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.studentinvestor.org/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.studentinvestor.org/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="Student Investor Challenge"/>
+<meta name="msapplication-TileColor" content="#5F9816" />
+<meta name="msapplication-TileImage" content="http://www.studentinvestor.org/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="http://www.studentinvestor.org/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="http://www.studentinvestor.org/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="http://www.studentinvestor.org/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="http://www.studentinvestor.org/mstile-310x310.png" />
+
+  <style type="text/css" media="screen">@import url("/css/2016.20160915.css");</style>
+
+<!--[if IE 9]>
+<style>
+/* See http://codepen.io/trezy/pen/fxIle and http://jsfiddle.net/4p6Lk/11/ */
+
+.tflipper p, .tflipper h2, .tflipper a {color:inherit!important}
+
+.tflipper {
+    background-repeat: no-repeat;
+    color: rgba(255, 255, 255, 0);
+}
+
+.tflipper:hover {
+    color: rgba(255, 255, 255, 1);
+}
+
+#tr-ainvestor {
+    background-image:url('/images/ttile-pgp.png');
+}
+#tr-ainvestor:hover{
+    background-image:none;
+}
+
+#tr-sinvestor {
+    background-image:url('/images/ttile-sip.png');
+}
+#tr-sinvestor:hover{
+    background-image:none;
+}
+
+#tr-resources {
+    background-image:url('/images/ttile-resources.png');
+}
+#tr-resources:hover{
+    background-image:none;
+}
+
+#tr-rules {
+    background-image:url('/images/ttile-rules.png');
+}
+#tr-rules:hover{
+    background-image:none;
+}
+
+#tr-companies {
+    background-image:url('/images/ttile-companies.png');
+}
+#tr-companies:hover{
+    background-image:none;
+}
+
+#tr-etfs {
+    background-image:url('/images/ttile-etfs.png');
+}
+#tr-etfs:hover{
+    background-image:none;
+}
+
+#tr-videos {
+    background-image:url('/images/ttile-videos.png');
+}
+#tr-videos:hover{
+    background-image:none;
+}
+
+#tr-edit {
+    background-image:url('/images/ttile-edit.png');
+}
+#tr-edit:hover{
+    background-image:none;
+}
+
+</style>
+<![endif]-->
+
+<!--[if !IE]><!-->
+<style>
+/* See http://codepen.io/trezy/pen/fxIle and http://jsfiddle.net/4p6Lk/11/ */
+
+.tflipper {
+    background-repeat: no-repeat;
+    transform:rotateY(180deg);
+    -webkit-transform:rotateY(180deg);
+    transform-style: preserve-3d;
+    color: rgba(255, 255, 255, 0);
+    -webkit-transition: color 0.3s 0s ease-in-out, -webkit-transform 1s 0s ease-in-out,background-position 0s 0.5s ease-in-out;
+    transition: color 0.3s 0s ease-in-out, transform 1s 0s ease-in-out, background-position 0s 0.5s ease-in-out
+}
+
+.tflipper:hover {
+   -webkit-transform:rotateY(0deg);
+   transform:rotateY(0deg);
+   color: rgba(255, 255, 255, 1);
+   -webkit-transition: -webkit-transform 1s 0s ease-in-out,background-position 0s 0.5s ease-in-out,color 0.5s 0.3s ease-in-out;
+   transition: transform 1s 0s ease-in-out,background-position 0s 0.5s ease-in-out,color 0.5s 0.3s ease-in-out
+}
+
+.tflipper p, .tflipper h2, .tflipper a {color:inherit!important}
+
+#tr-ainvestor {
+    background-image:url('/images/ttile-pgp-rev.png');
+    background-position: 0px 0px;
+}
+#tr-ainvestor:hover{
+    background-position: -272px 0px;
+}
+
+#tr-sinvestor {
+    background-image:url('/images/ttile-sip-rev.png');
+    background-position: 0px 0px;
+}
+#tr-sinvestor:hover{
+    background-position: -272px 0px;
+}
+
+#tr-resources {
+    background-image:url('/images/ttile-resources-rev.png');
+    background-position: 0px 0px;
+}
+#tr-resources:hover{
+    background-position: -128px 0px;
+}
+
+#tr-rules {
+    background-image:url('/images/ttile-rules-rev.png');
+    background-position: 0px 0px;
+}
+#tr-rules:hover{
+    background-position: -128px 0px;
+}
+
+#tr-companies {
+    background-image:url('/images/ttile-companies-rev.png');
+    background-position: 16px 0px;
+}
+#tr-companies:hover{
+    background-position: -128px 0px;
+}
+
+#tr-etfs {
+    background-image:url('/images/ttile-etfs-rev.png');
+    background-position: 16px 0px;
+}
+#tr-etfs:hover{
+    background-position: -128px 0px;
+}
+
+#tr-videos {
+    background-image:url('/images/ttile-videos-rev.png');
+    background-position: 0px 0px;
+}
+#tr-videos:hover{
+    background-position: -128px 0px;
+}
+
+#tr-edit {
+    background-image:url('/images/ttile-edit-rev.png');
+    background-position: 0px 0px;
+}
+#tr-edit:hover{
+    background-position: -128px 0px;
+}
+
+</style>
+<!--<![endif]-->
+
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script>
+function svgasimg() {
+ return document.implementation.hasFeature(
+  "http://www.w3.org/TR/SVG11/feature#Image", "1.1");
+}
+
+jQuery( document ).ready(function( $ ) {
+ $(".colourbutton").click(function(e){
+  window.open($("a",$(this)).attr("href"));
+ });
+
+   if (!svgasimg()){
+      var e = document.getElementsByTagName("img");
+      if (!e.length){
+        e = document.getElementsByTagName("IMG");
+      }
+      for (var i=0, n=e.length; i<n; i++){
+        var img = e[i];
+        var src = img.getAttribute("src");
+        if (src.match(/svgz?$/)) {
+        /* URL ends in svg or svgz */
+          img.setAttribute("src", img.getAttribute("data-fallback"));
+        }
+      }
+    }
+
+
+// $("#tr-vid").click(function(e){
+//  window.open('trade-vid.php','updatevideo','width=650,height=400,resizable=no,scrollbars=no,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no');
+// });
+});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-9331123-1', 'auto'); 
+ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div id="skip"><p><a href="#maincontent" accesskey="1">Skip to Content &ndash; Press Enter.</a></p></div>
+
+ <div id="totalwrap">
+  <div id="centrewrap">
+   <div id="metalhead">
+    <div id="metalbaseleft">
+     <div id="metalbaseright">
+      <div id="metalbackleft">
+       <div id="metalbackright">
+
+        <div id="header">
+
+         <p id="silogo"><a href="/"><img src="http://si-static1.ifsstudentinvestor.org/images/student-investor-2017-v1.svg" data-fallback="http://si-static1.ifsstudentinvestor.org/images/student-investor-2017-v1.png" alt="Student Investor Challenge" width="360" height="63" /></a></p>
+
+         <ul id="headernav">
+          <li><span class="navfirst"><a href="/">Home</a></span></li>
+          <li><span><a href="/rules-portfolio.php">About</a></span></li>
+          <li><span class="here"><a href="/trade.php">Trade</a></span></li>
+
+          <li><span><a href="/portfolio-league.php">League</a></span></li>
+          <li><span><a href="/download.php">Resources</a></span></li>
+          <li><span><a href="/prizes.php">Prizes</a></span></li>
+
+          <li><span class="last">&nbsp;</span></li>
+
+         </ul>
+
+         <p id="ifslogo"><a href="http://www.libf.ac.uk/study/financial-capability/student-zone"><img src="http://si-static1.ifsstudentinvestor.org/images/libf-2017.svg" data-fallback="http://si-static1.ifsstudentinvestor.org/images/libf-2017.png" alt="The London Institute of Banking &amp; Finance &ndash; Student Investor" width="256" height="134" /></a></p>
+
+<p id="headertext">You are logged in as <strong>Poultry Effort</strong> <a href="/secure/logout.php" class="linkbutton">LOG OUT</a></p>
+        </div> 
+        <div id="contentholder">
+        <div id="content">
+
+<div class="skipinvis"><div class="skipinvisinner"><a name="maincontent" id="maincontent" tabindex="-1"><em>Start of main content &ndash; read on from here or press tab to access the next link.</em></a></div></div>
+
+<script>
+jQuery( document ).ready(function( $ ) {
+ $(".tflipper").click(function(e){
+  window.location.href = $("h2 a",$(this)).attr("href");
+ });
+});
+</script>
+
+  <div id="tr-holder">
+  <div id="tr-left-col">
+  <div class="tflipper" id="tr-ainvestor">
+  <h2><a href="/portfolio.php">Active Investor <br/>Practice Game Portfolio</a></h2>
+  <p>Information on all the stock you own and what it is worth. You can also sell stock here.</p>
+  </div>
+
+  <div class="tflipper" id="tr-resources">
+  <h2><a href="/download.php">Resources</a></h2>
+  <p>Guides and more to help you with the challenge.</p>
+  </div>
+
+  <div class="tflipper" id="tr-rules">
+  <h2><a href="/the-rules.php">Rules</a></h2>
+  <p>The official rulebook. Required reading.</p>
+  </div>
+  </div>
+
+  <div id="tr-mid-col">
+  <div class="tflipper" id="tr-companies">
+  <h2><a href="/stock-list.php">Companies</a></h2>
+  <p>View and buy companies from the FTSE&nbsp;100 and SmallCap&nbsp;50.</p>
+  </div>
+
+  <div class="tflipper" id="tr-etfs">
+  <h2><a href="/etf-list.php">ETFs</a></h2>
+  <p>View and buy Exchange Traded Funds.</p>
+  </div>
+
+  <div id="tr-vid">
+    </div>
+  </div>
+
+  <div id="tr-right-col">
+  <div class="tflipper" id="tr-sinvestor">
+  <h2><a href="/about-strategic.php">Strategic Investor Portfolio</a></h2>
+  <p>Strategic Investor will be available from 9am on 17&nbsp;October&nbsp;2016.<br/><a href="/about-strategic.php">Find out more &raquo;</a></p>
+  </div>
+
+  <div class="tflipper" id="tr-videos">
+  <h2><a href="/video-guides.php">Video Guides</a></h2>
+  <p>Handy video guides including top tips.</p>
+  </div>
+
+  <div class="tflipper" id="tr-edit">
+  <h2><a href="/secure/team-details.php">Edit Team</a></h2>
+  <p>Change passwords and update e-mail addresses here.</p>
+  </div>
+  </div>
+  </div>
+
+  <div id="sidebar0">
+<div id="teachstudents0" >
+<p class="colourbutton" id="teachersbutton"><a href="http://www.libf.ac.uk/study/financial-capability/qualifications?utm_source=sicbttn&amp;utm_medium=tchrbttn&amp;utm_campaign=bttn01" target="_blank">Teachers, find out how to deliver financial capability qualifications</a></p>
+<p class="colourbutton" id="degreebutton"><a href="http://www.libf.ac.uk/study/full-time-degrees?utm_source=sic&utm_medium=button&utm_campaign=sicweb2013" target="_blank">BSc (Hons) degrees in banking or finance and accounting</a></p>
+</div>
+<div id="social0">
+<p id="fbook">
+<a href="https://twitter.com/intent/follow?user_id=370105386" target="_blank"><img src="http://si-static2.ifsstudentinvestor.org/images/twitter-2013.png" id="twitterlogo" alt="Follow us on Twitter" width="32" height="32" style="margin-top:5px" /></a> <a href="https://twitter.com/intent/follow?user_id=370105386" target="_blank">Follow us on Twitter</a>
+<br/>
+<a href="https://www.facebook.com/studentinvestor" target="_blank"><img src="http://si-static2.ifsstudentinvestor.org/images/fb_logo_2016.png" id="fbooklogo" alt="Follow us on Facebook" width="32" height="32" style="margin-top:5px"/></a> <a href="https://www.facebook.com/studentinvestor" target="_blank">Follow us on Facebook</a>
+</p>
+</div>
+</div>
+<p style="clear: both;height:1px;line-height:0.1;margin:0;padding:0">&nbsp;</p>
+        </div>           </div>           <div id="footerholder">
+        <div id="footer">
+         <ul id="footernav">
+          <li><a href="/help.php" class="first">Help</a></li>
+          <li><a href="/secure/contact.php">Contact</a></li>
+          <li><a href="/accessibility.php">Accessibility</a></li>
+          <li><a href="/privacy.php">Privacy</a></li>
+          <li><a href="/credits.php">Credits</a></li>
+          <li><a href="/partners.php">Partners</a></li>
+         </ul>
+
+             <p id="partnerlogos">Student Investor Challenge is supported by:<br />
+<span id="partnerlogosimgs">
+<img src="http://si-static1.ifsstudentinvestor.org/images/ftse-2016.png" id="ftselogo" alt="FTSE: The Index Company" width="83" height="37" />
+<img src="http://si-static1.ifsstudentinvestor.org/images/bloomberg-2016.png" id="bberglogo" alt="Bloomberg" width="144" height="31" />
+</span>
+</p>
+         </div>                 </div> 
+       </div>       </div>      </div>     </div>    </div>   </div>  </div> 
+
+</body>
+</html>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>The Latest Company Stock Prices</title>
+  <meta name="description" content="" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="info@refinedpractice.com" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.studentinvestor.org/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.studentinvestor.org/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.studentinvestor.org/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.studentinvestor.org/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://www.studentinvestor.org/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.studentinvestor.org/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.studentinvestor.org/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.studentinvestor.org/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="http://www.studentinvestor.org/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="Student Investor Challenge"/>
+<meta name="msapplication-TileColor" content="#5F9816" />
+<meta name="msapplication-TileImage" content="http://www.studentinvestor.org/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="http://www.studentinvestor.org/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="http://www.studentinvestor.org/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="http://www.studentinvestor.org/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="http://www.studentinvestor.org/mstile-310x310.png" />
+
+  <style type="text/css" media="screen">@import url("/css/2016.20160915.css");</style>
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script>
+function svgasimg() {
+ return document.implementation.hasFeature(
+  "http://www.w3.org/TR/SVG11/feature#Image", "1.1");
+}
+
+jQuery( document ).ready(function( $ ) {
+ $(".colourbutton").click(function(e){
+  window.open($("a",$(this)).attr("href"));
+ });
+
+   if (!svgasimg()){
+      var e = document.getElementsByTagName("img");
+      if (!e.length){
+        e = document.getElementsByTagName("IMG");
+      }
+      for (var i=0, n=e.length; i<n; i++){
+        var img = e[i];
+        var src = img.getAttribute("src");
+        if (src.match(/svgz?$/)) {
+        /* URL ends in svg or svgz */
+          img.setAttribute("src", img.getAttribute("data-fallback"));
+        }
+      }
+    }
+
+
+// $("#tr-vid").click(function(e){
+//  window.open('trade-vid.php','updatevideo','width=650,height=400,resizable=no,scrollbars=no,toolbar=no,location=no,directories=no,status=no,menubar=no,copyhistory=no');
+// });
+});
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-9331123-1', 'auto'); 
+ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+
+<div id="skip"><p><a href="#maincontent" accesskey="1">Skip to Content &ndash; Press Enter.</a></p></div>
+
+ <div id="totalwrap">
+  <div id="centrewrap">
+   <div id="metalhead">
+    <div id="metalbaseleft">
+     <div id="metalbaseright">
+      <div id="metalbackleft">
+       <div id="metalbackright">
+
+        <div id="header">
+
+         <p id="silogo"><a href="/"><img src="http://si-static1.ifsstudentinvestor.org/images/student-investor-2017-v1.svg" data-fallback="http://si-static1.ifsstudentinvestor.org/images/student-investor-2017-v1.png" alt="Student Investor Challenge" width="360" height="63" /></a></p>
+
+         <ul id="headernav">
+          <li><span class="navfirst"><a href="/">Home</a></span></li>
+          <li><span><a href="/rules-portfolio.php">About</a></span></li>
+          <li><span class="here"><a href="/trade.php">Trade</a></span></li>
+
+          <li><span><a href="/portfolio-league.php">League</a></span></li>
+          <li><span><a href="/download.php">Resources</a></span></li>
+          <li><span><a href="/prizes.php">Prizes</a></span></li>
+
+          <li><span class="last">&nbsp;</span></li>
+
+         </ul>
+
+         <p id="ifslogo"><a href="http://www.libf.ac.uk/study/financial-capability/student-zone"><img src="http://si-static1.ifsstudentinvestor.org/images/libf-2017.svg" data-fallback="http://si-static1.ifsstudentinvestor.org/images/libf-2017.png" alt="The London Institute of Banking &amp; Finance &ndash; Student Investor" width="256" height="134" /></a></p>
+
+<p id="headertext">You are logged in as <strong>Poultry Effort</strong> <a href="/secure/logout.php" class="linkbutton">LOG OUT</a></p>
+        </div> 
+        <div id="contentholder">
+        <div id="content">
+
+<div class="skipinvis"><div class="skipinvisinner"><a name="maincontent" id="maincontent" tabindex="-1"><em>Start of main content &ndash; read on from here or press tab to access the next link.</em></a></div></div>
+
+
+       <div class="balloon lblue">
+
+   <h1 style="text-align:center"><img src="http://si-static1.ifsstudentinvestor.org/images/companies.png" alt="" width="45" height="64"> Company List</h1>
+
+<p>It's not time to play the Student Investor Challenge yet, but you can try out trading stock in our practice game until 14 October. Anything you buy now will be removed from your portfolio once the competition starts on 17 October. This means that you can buy and sell now safe in the knowledge that if you make a bad decision it will not affect your standing in the full competition.</p>
+<p style="margin-top:1em">To find out more about each company, or to buy stock in it, just follow the link from its name.</p>
+
+<p style="margin-top:1em">As well as examining the companies available you should <a href="/etf-list.php">see which ETFs you can trade</a> and keep an eye on <a href="/portfolio.php">your team's Practice Game portfolio</a>. You can also pick up some tips on trading by reading the <a href="/portfolio-challenge-how-to.php">Guru's guide on how to pick your portfolio</a> and <a href="/video-guides.php">watching our video guides</a>.</p>
+
+
+    </div>
+ 
+<div class="postballoon" style="margin-top:32px">
+<p>Company stocks are a way of investing in a company by buying small parts of that company, called 'shares'. The value of these shares changes over time depending as to how well investors believe the company is performing. Some companies also hand out a share of their profits to shareholders each year &ndash; this is called a dividend.</p>
+<p>Our company stocks are split in to two sections:</p> 
+<ul>
+<li>First we have companies from <strong>FTSE 100</strong>. These are the '100 most highly capitalised' (i.e. 'biggest') companies that are quoted on the London Stock Exchange, accounting for around 81% of the UK market. Our FTSE 100 section is based on the constituents of the FTSE 100 as of the end of the August before the competition started.
+</li>
+<li>The second section is the <strong>SmallCap 50</strong>. These are 50 specially selected smaller companies. Smaller companies often have more volatile stock prices, so can make you large profits or large losses!
+</li>
+</ul>
+</div>
+
+<h2 style="clear: left" id="mwidth">FTSE 100 Companies</h2>
+<table class="stocklist" id="ftse100" summary="Latest Stock Prices for FTSE 100 Companies">
+<tr class="tophead">
+<th abbr="Name" class="sortable"><a href="stock-list.php?ftsesort=name&amp;ifssort=#ftse100">Company Name<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Ticker" class="sortable tickercol"><a href="stock-list.php?ftsesort=symbol&amp;ifssort=#ftse100">Ticker Symbol<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Sector" class="sortable sectorcol"><a href="stock-list.php?ftsesort=industry_sector&amp;ifssort=#ftse100">Industry Sector<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Group" class="sortable groupcol"><a href="stock-list.php?ftsesort=industry_group&amp;ifssort=#ftse100">Industry Group<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Price" class="sortable"><a href="stock-list.php?ftsesort=px_last&amp;ifssort=#ftse100">Price (pence)<br /><span class="sort">(sort)</span></a></th>
+
+<th abbr="Change" class="sortable"><a href="stock-list.php?ftsesort=change&amp;ifssort=#ftse100">Change (percent)<br /><span class="sort">(sort)</span></a></th>
+
+</tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=III:LN">3i Group PLC</a></th>
+<td class="tickercol">III:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Private Equity</td>
+<td>640.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ADM:LN">Admiral Group PLC</a></th>
+<td class="tickercol">ADM:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>2072.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=AAL:LN">Anglo American PLC</a></th>
+<td class="tickercol">AAL:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>923.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ANTO:LN">Antofagasta PLC</a></th>
+<td class="tickercol">ANTO:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>506.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=AHT:LN">Ashtead Group PLC</a></th>
+<td class="tickercol">AHT:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>1233.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ABF:LN">Associated British Foods PLC</a></th>
+<td class="tickercol">ABF:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Food</td>
+<td>2587.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=AZN:LN">AstraZeneca PLC</a></th>
+<td class="tickercol">AZN:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>5122.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=AV/:LN">Aviva PLC</a></th>
+<td class="tickercol">AV/:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>441.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BAB:LN">Babcock International Group PLC</a></th>
+<td class="tickercol">BAB:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>1087.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BA/:LN">BAE Systems PLC</a></th>
+<td class="tickercol">BA/:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Aerospace/Defense</td>
+<td>526.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BARC:LN">Barclays PLC</a></th>
+<td class="tickercol">BARC:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Banks</td>
+<td>166.10</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BDEV:LN">Barratt Developments PLC</a></th>
+<td class="tickercol">BDEV:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Home Builders</td>
+<td>493.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BLT:LN">BHP Billiton PLC</a></th>
+<td class="tickercol">BLT:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>1097.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BP/:LN">BP PLC</a></th>
+<td class="tickercol">BP/:LN</td>
+<td class="sectorcol">Energy</td>
+<td class="groupcol">Oil&amp;Gas</td>
+<td>432.25</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BATS:LN">British American Tobacco PLC</a></th>
+<td class="tickercol">BATS:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Agriculture</td>
+<td>4943.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BLND:LN">British Land Co PLC/The</a></th>
+<td class="tickercol">BLND:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>630.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BT/A:LN">BT Group PLC</a></th>
+<td class="tickercol">BT/A:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Telecommunications</td>
+<td>391.75</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BNZL:LN">Bunzl PLC</a></th>
+<td class="tickercol">BNZL:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Distribution/Wholesale</td>
+<td>2290.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BRBY:LN">Burberry Group PLC</a></th>
+<td class="tickercol">BRBY:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Apparel</td>
+<td>1387.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CPI:LN">Capita PLC</a></th>
+<td class="tickercol">CPI:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>952.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCL:LN">Carnival PLC</a></th>
+<td class="tickercol">CCL:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Leisure Time</td>
+<td>3745.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CNA:LN">Centrica PLC</a></th>
+<td class="tickercol">CNA:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Gas</td>
+<td>224.30</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCH:LN">Coca-Cola HBC AG</a></th>
+<td class="tickercol">CCH:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Beverages</td>
+<td>1755.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CPG:LN">Compass Group PLC</a></th>
+<td class="tickercol">CPG:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Food Service</td>
+<td>1493.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CRH:LN">CRH PLC</a></th>
+<td class="tickercol">CRH:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Building Materials</td>
+<td>2568.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DCC:LN">DCC PLC</a></th>
+<td class="tickercol">DCC:LN</td>
+<td class="sectorcol">Energy</td>
+<td class="groupcol">Oil&amp;Gas</td>
+<td>6885.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DGE:LN">Diageo PLC</a></th>
+<td class="tickercol">DGE:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Beverages</td>
+<td>2222.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DLG:LN">Direct Line Insurance Group PLC</a></th>
+<td class="tickercol">DLG:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>370.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DC/:LN">Dixons Carphone PLC</a></th>
+<td class="tickercol">DC/:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>365.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=EZJ:LN">easyJet PLC</a></th>
+<td class="tickercol">EZJ:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Airlines</td>
+<td>1031.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=EXPN:LN">Experian PLC</a></th>
+<td class="tickercol">EXPN:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>1551.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=FRES:LN">Fresnillo PLC</a></th>
+<td class="tickercol">FRES:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>1777.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=GKN:LN">GKN PLC</a></th>
+<td class="tickercol">GKN:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Auto Parts&amp;Equipment</td>
+<td>321.90</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=GSK:LN">GlaxoSmithKline PLC</a></th>
+<td class="tickercol">GSK:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>1655.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=GLEN:LN">Glencore PLC</a></th>
+<td class="tickercol">GLEN:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>209.35</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HMSO:LN">Hammerson PLC</a></th>
+<td class="tickercol">HMSO:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>588.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HL/:LN">Hargreaves Lansdown PLC</a></th>
+<td class="tickercol">HL/:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>1275.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HIK:LN">Hikma Pharmaceuticals PLC</a></th>
+<td class="tickercol">HIK:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>2078.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HSBA:LN">HSBC Holdings PLC</a></th>
+<td class="tickercol">HSBA:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Banks</td>
+<td>571.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=IMB:LN">Imperial Brands PLC</a></th>
+<td class="tickercol">IMB:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Agriculture</td>
+<td>3930.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=INF:LN">Informa PLC</a></th>
+<td class="tickercol">INF:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Media</td>
+<td>723.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=IHG:LN">InterContinental Hotels Group PLC</a></th>
+<td class="tickercol">IHG:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Lodging</td>
+<td>3121.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=IAG:LN">International Consolidated Airlines Group SA</a></th>
+<td class="tickercol">IAG:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Airlines</td>
+<td>399.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ITRK:LN">Intertek Group PLC</a></th>
+<td class="tickercol">ITRK:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>3488.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=INTU:LN">Intu Properties PLC</a></th>
+<td class="tickercol">INTU:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>292.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ITV:LN">ITV PLC</a></th>
+<td class="tickercol">ITV:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Media</td>
+<td>186.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SBRY:LN">J Sainsbury PLC</a></th>
+<td class="tickercol">SBRY:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Food</td>
+<td>241.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=JMAT:LN">Johnson Matthey PLC</a></th>
+<td class="tickercol">JMAT:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Chemicals</td>
+<td>3250.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=KGF:LN">Kingfisher PLC</a></th>
+<td class="tickercol">KGF:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>371.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=LAND:LN">Land Securities Group PLC</a></th>
+<td class="tickercol">LAND:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>1049.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=LGEN:LN">Legal &amp; General Group PLC</a></th>
+<td class="tickercol">LGEN:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>219.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=LLOY:LN">Lloyds Banking Group PLC</a></th>
+<td class="tickercol">LLOY:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Banks</td>
+<td>55.53</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=LSE:LN">London Stock Exchange Group PLC</a></th>
+<td class="tickercol">LSE:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>2801.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MKS:LN">Marks &amp; Spencer Group PLC</a></th>
+<td class="tickercol">MKS:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>313.90</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MDC:LN">Mediclinic International PLC</a></th>
+<td class="tickercol">MDC:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Healthcare-Services</td>
+<td>941.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MERL:LN">Merlin Entertainments PLC</a></th>
+<td class="tickercol">MERL:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Entertainment</td>
+<td>469.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MCRO:LN">Micro Focus International PLC</a></th>
+<td class="tickercol">MCRO:LN</td>
+<td class="sectorcol">Technology</td>
+<td class="groupcol">Software</td>
+<td>2138.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MNDI:LN">Mondi PLC</a></th>
+<td class="tickercol">MNDI:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Forest Products&amp;Paper</td>
+<td>1625.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=NG/:LN">National Grid PLC</a></th>
+<td class="tickercol">NG/:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Gas</td>
+<td>1095.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=NXT:LN">Next PLC</a></th>
+<td class="tickercol">NXT:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>4781.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=OML:LN">Old Mutual PLC</a></th>
+<td class="tickercol">OML:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>199.80</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PPB:LN">Paddy Power Betfair PLC</a></th>
+<td class="tickercol">PPB:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Entertainment</td>
+<td>8725.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PSON:LN">Pearson PLC</a></th>
+<td class="tickercol">PSON:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Media</td>
+<td>755.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PSN:LN">Persimmon PLC</a></th>
+<td class="tickercol">PSN:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Home Builders</td>
+<td>1806.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=POLY:LN">Polymetal International PLC</a></th>
+<td class="tickercol">POLY:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>967.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PFG:LN">Provident Financial PLC</a></th>
+<td class="tickercol">PFG:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>2930.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PRU:LN">Prudential PLC</a></th>
+<td class="tickercol">PRU:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>1380.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RRS:LN">Randgold Resources Ltd</a></th>
+<td class="tickercol">RRS:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>7750.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RB/:LN">Reckitt Benckiser Group PLC</a></th>
+<td class="tickercol">RB/:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Household Products/Wares</td>
+<td>7180.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=REL:LN">RELX PLC</a></th>
+<td class="tickercol">REL:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>1455.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RIO:LN">Rio Tinto PLC</a></th>
+<td class="tickercol">RIO:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>2525.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RR/:LN">Rolls-Royce Holdings PLC</a></th>
+<td class="tickercol">RR/:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Aerospace/Defense</td>
+<td>717.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RBS:LN">Royal Bank of Scotland Group PLC</a></th>
+<td class="tickercol">RBS:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Banks</td>
+<td>176.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RDSA:LN">Royal Dutch Shell PLC</a></th>
+<td class="tickercol">RDSA:LN</td>
+<td class="sectorcol">Energy</td>
+<td class="groupcol">Oil&amp;Gas</td>
+<td>1805.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RMG:LN">Royal Mail PLC</a></th>
+<td class="tickercol">RMG:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Transportation</td>
+<td>486.20</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RSA:LN">RSA Insurance Group PLC</a></th>
+<td class="tickercol">RSA:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>545.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SAB:LN">SABMiller PLC</a></th>
+<td class="tickercol">SAB:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Beverages</td>
+<td>4490.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SGE:LN">Sage Group PLC/The</a></th>
+<td class="tickercol">SGE:LN</td>
+<td class="sectorcol">Technology</td>
+<td class="groupcol">Software</td>
+<td>732.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SDR:LN">Schroders PLC</a></th>
+<td class="tickercol">SDR:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>2673.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SVT:LN">Severn Trent PLC</a></th>
+<td class="tickercol">SVT:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Water</td>
+<td>2483.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHP:LN">Shire PLC</a></th>
+<td class="tickercol">SHP:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>5108.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SKY:LN">Sky PLC</a></th>
+<td class="tickercol">SKY:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Media</td>
+<td>882.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SN/:LN">Smith &amp; Nephew PLC</a></th>
+<td class="tickercol">SN/:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Healthcare-Products</td>
+<td>1252.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SMIN:LN">Smiths Group PLC</a></th>
+<td class="tickercol">SMIN:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Miscellaneous Manufactur</td>
+<td>1443.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SSE:LN">SSE PLC</a></th>
+<td class="tickercol">SSE:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Electric</td>
+<td>1543.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=STJ:LN">St James's Place PLC</a></th>
+<td class="tickercol">STJ:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>961.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=STAN:LN">Standard Chartered PLC</a></th>
+<td class="tickercol">STAN:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Banks</td>
+<td>621.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SL/:LN">Standard Life PLC</a></th>
+<td class="tickercol">SL/:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Insurance</td>
+<td>343.30</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=TW/:LN">Taylor Wimpey PLC</a></th>
+<td class="tickercol">TW/:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Home Builders</td>
+<td>153.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=TSCO:LN">Tesco PLC</a></th>
+<td class="tickercol">TSCO:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Food</td>
+<td>177.65</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=TPK:LN">Travis Perkins PLC</a></th>
+<td class="tickercol">TPK:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>1537.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=TUI:LN">TUI AG</a></th>
+<td class="tickercol">TUI:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Leisure Time</td>
+<td>1100.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ULVR:LN">Unilever PLC</a></th>
+<td class="tickercol">ULVR:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Cosmetics/Personal Care</td>
+<td>3655.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=UU/:LN">United Utilities Group PLC</a></th>
+<td class="tickercol">UU/:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Water</td>
+<td>995.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=VOD:LN">Vodafone Group PLC</a></th>
+<td class="tickercol">VOD:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Telecommunications</td>
+<td>223.10</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=WTB:LN">Whitbread PLC</a></th>
+<td class="tickercol">WTB:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Lodging</td>
+<td>3894.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MRW:LN">Wm Morrison Supermarkets PLC</a></th>
+<td class="tickercol">MRW:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Food</td>
+<td>220.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=WOS:LN">Wolseley PLC</a></th>
+<td class="tickercol">WOS:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Distribution/Wholesale</td>
+<td>4260.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=WPG:LN">Worldpay Group PLC</a></th>
+<td class="tickercol">WPG:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>292.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=WPP:LN">WPP PLC</a></th>
+<td class="tickercol">WPP:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Advertising</td>
+<td>1819.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+</table>
+<h2>SmallCap 50 Companies</h2>
+<table class="stocklist" id="ifs50" summary="Latest Stock Prices for ifs SmallCap 50 Companies">
+<tr class="tophead">
+<th abbr="Name" class="sortable"><a href="stock-list.php?ftsesort=&amp;ifssort=name#ifs50">Company Name<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Ticker" class="sortable tickercol"><a href="stock-list.php?ftsesort=&amp;ifssort=symbol#ifs50">Ticker Symbol<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Sector" class="sortable sectorcol"><a href="stock-list.php?ftsesort=&amp;ifssort=industry_sector#ifs50">Industry Sector<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Group" class="sortable groupcol"><a href="stock-list.php?ftsesort=&amp;ifssort=industry_group#ifs50">Industry Group<br /><span class="sort">(sort)</span></a></th>
+<th abbr="Price" class="sortable"><a href="stock-list.php?ftsesort=&amp;ifssort=px_last#ifs50">Price (pence)<br /><span class="sort">(sort)</span></a></th>
+
+<th abbr="Change" class="sortable"><a href="stock-list.php?ftsesort=&amp;ifssort=change#ifs50">Change (percent)<br /><span class="sort">(sort)</span></a></th>
+</tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ABC:LN">Abcam PLC</a></th>
+<td class="tickercol">ABC:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Biotechnology</td>
+<td>838.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=AN/:LN">Alternative Networks PLC</a></th>
+<td class="tickercol">AN/:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Telecommunications</td>
+<td>276.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ASHM:LN">Ashmore Group PLC</a></th>
+<td class="tickercol">ASHM:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>347.30</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BBA:LN">BBA Aviation PLC</a></th>
+<td class="tickercol">BBA:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Engineering&amp;Construction</td>
+<td>251.30</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BKG:LN">Berkeley Group Holdings PLC</a></th>
+<td class="tickercol">BKG:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Home Builders</td>
+<td>2574.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BYG:LN">Big Yellow Group PLC</a></th>
+<td class="tickercol">BYG:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>780.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=BVIC:LN">Britvic PLC</a></th>
+<td class="tickercol">BVIC:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Beverages</td>
+<td>610.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CHG:LN">Chemring Group PLC</a></th>
+<td class="tickercol">CHG:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Aerospace/Defense</td>
+<td>137.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=CCC:LN">Computacenter PLC</a></th>
+<td class="tickercol">CCC:LN</td>
+<td class="sectorcol">Technology</td>
+<td class="groupcol">Computers</td>
+<td>725.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DMGT:LN">Daily Mail &amp; General Trust PLC</a></th>
+<td class="tickercol">DMGT:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Media</td>
+<td>713.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DEB:LN">Debenhams PLC</a></th>
+<td class="tickercol">DEB:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>57.05</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DLN:LN">Derwent London PLC</a></th>
+<td class="tickercol">DLN:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>2617.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DSG:LN">Dillistone Group PLC</a></th>
+<td class="tickercol">DSG:LN</td>
+<td class="sectorcol">Technology</td>
+<td class="groupcol">Software</td>
+<td>85.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DOM:LN">Domino's Pizza Group PLC</a></th>
+<td class="tickercol">DOM:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>364.90</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=DRX:LN">Drax Group PLC</a></th>
+<td class="tickercol">DRX:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Electric</td>
+<td>304.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ECM:LN">Electrocomponents PLC</a></th>
+<td class="tickercol">ECM:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Electronics</td>
+<td>341.20</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ELM:LN">Elementis PLC</a></th>
+<td class="tickercol">ELM:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Chemicals</td>
+<td>213.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ETI:LN">Enterprise Inns PLC</a></th>
+<td class="tickercol">ETI:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>92.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=EVR:LN">Evraz PLC</a></th>
+<td class="tickercol">EVR:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Iron/Steel</td>
+<td>164.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=FXPO:LN">Ferrexpo PLC</a></th>
+<td class="tickercol">FXPO:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Iron/Steel</td>
+<td>72.25</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=FGP:LN">Firstgroup PLC</a></th>
+<td class="tickercol">FGP:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Transportation</td>
+<td>106.10</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=GNS:LN">Genus PLC</a></th>
+<td class="tickercol">GNS:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Agriculture</td>
+<td>1977.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HFD:LN">Halfords Group PLC</a></th>
+<td class="tickercol">HFD:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>345.10</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HWDN:LN">Howden Joinery Group PLC</a></th>
+<td class="tickercol">HWDN:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Home Furnishings</td>
+<td>432.10</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=HCM:LN">Hutchison China MediTech Ltd</a></th>
+<td class="tickercol">HCM:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>1820.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=IAP:LN">ICAP PLC</a></th>
+<td class="tickercol">IAP:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Diversified Finan Serv</td>
+<td>460.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=INCH:LN">Inchcape PLC</a></th>
+<td class="tickercol">INCH:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Distribution/Wholesale</td>
+<td>658.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=JDW:LN">J D Wetherspoon PLC</a></th>
+<td class="tickercol">JDW:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>946.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=JD/:LN">JD Sports Fashion PLC</a></th>
+<td class="tickercol">JD/:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Retail</td>
+<td>1464.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=KBT:LN">K3 Business Technology Group PLC</a></th>
+<td class="tickercol">KBT:LN</td>
+<td class="sectorcol">Technology</td>
+<td class="groupcol">Software</td>
+<td>356.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=KAZ:LN">KAZ Minerals PLC</a></th>
+<td class="tickercol">KAZ:LN</td>
+<td class="sectorcol">Basic Materials</td>
+<td class="groupcol">Mining</td>
+<td>210.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=LAM:LN">Lamprell PLC</a></th>
+<td class="tickercol">LAM:LN</td>
+<td class="sectorcol">Energy</td>
+<td class="groupcol">Oil&amp;Gas Services</td>
+<td>65.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MLD:LN">MirLand Development Corp PLC</a></th>
+<td class="tickercol">MLD:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">Real Estate</td>
+<td>17.25</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MONY:LN">Moneysupermarket.com Group PLC</a></th>
+<td class="tickercol">MONY:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Internet</td>
+<td>307.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=MPE:LN">MP Evans Group PLC</a></th>
+<td class="tickercol">MPE:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Agriculture</td>
+<td>419.12</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=NEX:LN">National Express Group PLC</a></th>
+<td class="tickercol">NEX:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Transportation</td>
+<td>344.40</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=OCDO:LN">Ocado Group PLC</a></th>
+<td class="tickercol">OCDO:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Food</td>
+<td>254.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=PNN:LN">Pennon Group PLC</a></th>
+<td class="tickercol">PNN:LN</td>
+<td class="sectorcol">Utilities</td>
+<td class="groupcol">Water</td>
+<td>896.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=QQ/:LN">QinetiQ Group PLC</a></th>
+<td class="tickercol">QQ/:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>232.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RNK:LN">Rank Group PLC</a></th>
+<td class="tickercol">RNK:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Entertainment</td>
+<td>209.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RTO:LN">Rentokil Initial PLC</a></th>
+<td class="tickercol">RTO:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>221.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=RMV:LN">Rightmove PLC</a></th>
+<td class="tickercol">RMV:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Internet</td>
+<td>4209.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SVS:LN">Savills PLC</a></th>
+<td class="tickercol">SVS:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>711.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHB:LN">Shaftesbury PLC</a></th>
+<td class="tickercol">SHB:LN</td>
+<td class="sectorcol">Financial</td>
+<td class="groupcol">REITS</td>
+<td>974.50</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=SHI:LN">SIG PLC</a></th>
+<td class="tickercol">SHI:LN</td>
+<td class="sectorcol">Consumer, Cyclical</td>
+<td class="groupcol">Distribution/Wholesale</td>
+<td>118.80</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=TALK:LN">TalkTalk Telecom Group PLC</a></th>
+<td class="tickercol">TALK:LN</td>
+<td class="sectorcol">Communications</td>
+<td class="groupcol">Telecommunications</td>
+<td>196.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=VEC:LN">Vectura Group PLC</a></th>
+<td class="tickercol">VEC:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Pharmaceuticals</td>
+<td>140.70</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=VSVS:LN">Vesuvius PLC</a></th>
+<td class="tickercol">VSVS:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Miscellaneous Manufactur</td>
+<td>352.60</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=YOU:LN">YouGov PLC</a></th>
+<td class="tickercol">YOU:LN</td>
+<td class="sectorcol">Consumer, Non-cyclical</td>
+<td class="groupcol">Commercial Services</td>
+<td>209.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+<tr><th scope="row"><a href="stock-info.php?ticker=ZYT:LN">Zytronic PLC</a></th>
+<td class="tickercol">ZYT:LN</td>
+<td class="sectorcol">Industrial</td>
+<td class="groupcol">Miscellaneous Manufactur</td>
+<td>371.00</td>
+<td style="color: black">+0.00 (+0.00%)</td></tr>
+</table>
+
+<h2>What Next?</h2>
+<p>You can <a href="/portfolio.php">view your team's Practice Game portfolio</a>, <a href="/etf-list.php">trade some ETFs</a>, read the <a href="/portfolio-challenge-how-to.php">Guru's guide on how to pick your portfolio</a>, <a href="/video-guides.php">watch our video guides</a>, or just <a href="/trade.php">head on back to the trading room</a>.</p>
+<p style="clear:both">&nbsp;</p><div id="quicklinks"><h2>Quick Links</h2><ul id="qlinklist"><li><a href="http://www.studentinvestor.org/trade.php">Trading Room</a></li><li><a href="http://www.studentinvestor.org/portfolio.php">Practice Game Portfolio</a></li><li><a href="http://www.studentinvestor.org/etf-list.php">ETF List</a></li><li><a href="http://www.studentinvestor.org/the-rules.php">Rules</a></li><li><a href="http://www.studentinvestor.org/video-guides.php">Video Guides</a></li><li><a href="http://www.studentinvestor.org/portfolio-challenge-how-to.php">Guru's Guide to the Challenge</a></li><li><a href="http://www.studentinvestor.org/glossary.php">Glossary</a></li><li><a href="http://www.studentinvestor.org/download.php">Resources</a></li><li><a href="http://www.studentinvestor.org/secure/team-details.php">Edit Team Details</a></li></ul></div><div id="sidebar2">
+<div id="teachstudents2" >
+<p class="colourbutton" id="teachersbutton"><a href="http://www.libf.ac.uk/study/financial-capability/qualifications?utm_source=sicbttn&amp;utm_medium=tchrbttn&amp;utm_campaign=bttn01" target="_blank">Teachers, find out how to deliver financial capability qualifications</a></p>
+<p class="colourbutton" id="degreebutton"><a href="http://www.libf.ac.uk/study/full-time-degrees?utm_source=sic&utm_medium=button&utm_campaign=sicweb2013" target="_blank">BSc (Hons) degrees in banking or finance and accounting</a></p>
+</div>
+<div id="social2">
+<p id="fbook">
+<a href="https://twitter.com/intent/follow?user_id=370105386" target="_blank"><img src="http://si-static2.ifsstudentinvestor.org/images/twitter-2013.png" id="twitterlogo" alt="Follow us on Twitter" width="32" height="32" style="margin-top:5px" /></a> <a href="https://twitter.com/intent/follow?user_id=370105386" target="_blank">Follow us on Twitter</a>
+<br/>
+<a href="https://www.facebook.com/studentinvestor" target="_blank"><img src="http://si-static2.ifsstudentinvestor.org/images/fb_logo_2016.png" id="fbooklogo" alt="Follow us on Facebook" width="32" height="32" style="margin-top:5px"/></a> <a href="https://www.facebook.com/studentinvestor" target="_blank">Follow us on Facebook</a>
+</p>
+</div>
+</div>
+<p style="clear: both;height:1px;line-height:0.1;margin:0;padding:0">&nbsp;</p>
+        </div>           </div>           <div id="footerholder">
+        <div id="footer">
+         <ul id="footernav">
+          <li><a href="/help.php" class="first">Help</a></li>
+          <li><a href="/secure/contact.php">Contact</a></li>
+          <li><a href="/accessibility.php">Accessibility</a></li>
+          <li><a href="/privacy.php">Privacy</a></li>
+          <li><a href="/credits.php">Credits</a></li>
+          <li><a href="/partners.php">Partners</a></li>
+         </ul>
+
+             <p id="partnerlogos">Student Investor Challenge is supported by:<br />
+<span id="partnerlogosimgs">
+<img src="http://si-static1.ifsstudentinvestor.org/images/ftse-2016.png" id="ftselogo" alt="FTSE: The Index Company" width="83" height="37" />
+<img src="http://si-static1.ifsstudentinvestor.org/images/bloomberg-2016.png" id="bberglogo" alt="Bloomberg" width="144" height="31" />
+</span>
+</p>
+         </div>                 </div> 
+       </div>       </div>      </div>     </div>    </div>   </div>  </div> 
+
+</body>
+</html>
+
+

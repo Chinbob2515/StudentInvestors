@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "test3.py", line 8, in <module>
+    print i.prettify()
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 7857: ordinal not in range(128)

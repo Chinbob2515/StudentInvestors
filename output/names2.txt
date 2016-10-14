@@ -1,0 +1,151 @@
+III:LN">3i Group PLC</a></
+ADM:LN">Admiral Group PLC</a></
+AAL:LN">Anglo American PLC</a></
+ANTO:LN">Antofagasta PLC</a></
+AHT:LN">Ashtead Group PLC</a></
+ABF:LN">Associated British Foods PLC</a></
+AZN:LN">AstraZeneca PLC</a></
+AV/:LN">Aviva PLC</a></
+BAB:LN">Babcock International Group PLC</a></
+BA/:LN">BAE Systems PLC</a></
+BARC:LN">Barclays PLC</a></
+BDEV:LN">Barratt Developments PLC</a></
+BLT:LN">BHP Billiton PLC</a></
+BP/:LN">BP PLC</a></
+BATS:LN">British American Tobacco PLC</a></
+BLND:LN">British Land Co PLC/The</a></
+BT/A:LN">BT Group PLC</a></
+BNZL:LN">Bunzl PLC</a></
+BRBY:LN">Burberry Group PLC</a></
+CPI:LN">Capita PLC</a></
+CCL:LN">Carnival PLC</a></
+CNA:LN">Centrica PLC</a></
+CCH:LN">Coca-Cola HBC AG</a></
+CPG:LN">Compass Group PLC</a></
+CRH:LN">CRH PLC</a></
+DCC:LN">DCC PLC</a></
+DGE:LN">Diageo PLC</a></
+DLG:LN">Direct Line Insurance Group PLC</a></
+DC/:LN">Dixons Carphone PLC</a></
+EZJ:LN">easyJet PLC</a></
+EXPN:LN">Experian PLC</a></
+FRES:LN">Fresnillo PLC</a></
+GKN:LN">GKN PLC</a></
+GSK:LN">GlaxoSmithKline PLC</a></
+GLEN:LN">Glencore PLC</a></
+HMSO:LN">Hammerson PLC</a></
+HL/:LN">Hargreaves Lansdown PLC</a></
+HIK:LN">Hikma Pharmaceuticals PLC</a></
+HSBA:LN">HSBC Holdings PLC</a></
+IMB:LN">Imperial Brands PLC</a></
+INF:LN">Informa PLC</a></
+IHG:LN">InterContinental Hotels Group PLC</a></
+IAG:LN">International Consolidated Airlines Group SA</a></
+ITRK:LN">Intertek Group PLC</a></
+INTU:LN">Intu Properties PLC</a></
+ITV:LN">ITV PLC</a></
+SBRY:LN">J Sainsbury PLC</a></
+JMAT:LN">Johnson Matthey PLC</a></
+KGF:LN">Kingfisher PLC</a></
+LAND:LN">Land Securities Group PLC</a></
+LGEN:LN">Legal &amp; General Group PLC</a></
+LLOY:LN">Lloyds Banking Group PLC</a></
+LSE:LN">London Stock Exchange Group PLC</a></
+MKS:LN">Marks &amp; Spencer Group PLC</a></
+MDC:LN">Mediclinic International PLC</a></
+MERL:LN">Merlin Entertainments PLC</a></
+MCRO:LN">Micro Focus International PLC</a></
+MNDI:LN">Mondi PLC</a></
+NG/:LN">National Grid PLC</a></
+NXT:LN">Next PLC</a></
+OML:LN">Old Mutual PLC</a></
+PPB:LN">Paddy Power Betfair PLC</a></
+PSON:LN">Pearson PLC</a></
+PSN:LN">Persimmon PLC</a></
+POLY:LN">Polymetal International PLC</a></
+PFG:LN">Provident Financial PLC</a></
+PRU:LN">Prudential PLC</a></
+RRS:LN">Randgold Resources Ltd</a></
+RB/:LN">Reckitt Benckiser Group PLC</a></
+REL:LN">RELX PLC</a></
+RIO:LN">Rio Tinto PLC</a></
+RR/:LN">Rolls-Royce Holdings PLC</a></
+RBS:LN">Royal Bank of Scotland Group PLC</a></
+RDSA:LN">Royal Dutch Shell PLC</a></
+RMG:LN">Royal Mail PLC</a></
+RSA:LN">RSA Insurance Group PLC</a></
+SAB:LN">SABMiller PLC</a></
+SGE:LN">Sage Group PLC/The</a></
+SDR:LN">Schroders PLC</a></
+SVT:LN">Severn Trent PLC</a></
+SHP:LN">Shire PLC</a></
+SKY:LN">Sky PLC</a></
+SN/:LN">Smith &amp; Nephew PLC</a></
+SMIN:LN">Smiths Group PLC</a></
+SSE:LN">SSE PLC</a></
+STJ:LN">St James's Place PLC</a></
+STAN:LN">Standard Chartered PLC</a></
+SL/:LN">Standard Life PLC</a></
+TW/:LN">Taylor Wimpey PLC</a></
+TSCO:LN">Tesco PLC</a></
+TPK:LN">Travis Perkins PLC</a></
+TUI:LN">TUI AG</a></
+ULVR:LN">Unilever PLC</a></
+UU/:LN">United Utilities Group PLC</a></
+VOD:LN">Vodafone Group PLC</a></
+WTB:LN">Whitbread PLC</a></
+MRW:LN">Wm Morrison Supermarkets PLC</a></
+WOS:LN">Wolseley PLC</a></
+WPG:LN">Worldpay Group PLC</a></
+WPP:LN">WPP PLC</a></
+ABC:LN">Abcam PLC</a></
+AN/:LN">Alternative Networks PLC</a></
+ASHM:LN">Ashmore Group PLC</a></
+BBA:LN">BBA Aviation PLC</a></
+BKG:LN">Berkeley Group Holdings PLC</a></
+BYG:LN">Big Yellow Group PLC</a></
+BVIC:LN">Britvic PLC</a></
+CHG:LN">Chemring Group PLC</a></
+CCC:LN">Computacenter PLC</a></
+DMGT:LN">Daily Mail &amp; General Trust PLC</a></
+DEB:LN">Debenhams PLC</a></
+DLN:LN">Derwent London PLC</a></
+DSG:LN">Dillistone Group PLC</a></
+DOM:LN">Domino's Pizza Group PLC</a></
+DRX:LN">Drax Group PLC</a></
+ECM:LN">Electrocomponents PLC</a></
+ELM:LN">Elementis PLC</a></
+ETI:LN">Enterprise Inns PLC</a></
+EVR:LN">Evraz PLC</a></
+FXPO:LN">Ferrexpo PLC</a></
+FGP:LN">Firstgroup PLC</a></
+GNS:LN">Genus PLC</a></
+HFD:LN">Halfords Group PLC</a></
+HWDN:LN">Howden Joinery Group PLC</a></
+HCM:LN">Hutchison China MediTech Ltd</a></
+IAP:LN">ICAP PLC</a></
+INCH:LN">Inchcape PLC</a></
+JDW:LN">J D Wetherspoon PLC</a></
+JD/:LN">JD Sports Fashion PLC</a></
+KBT:LN">K3 Business Technology Group PLC</a></
+KAZ:LN">KAZ Minerals PLC</a></
+LAM:LN">Lamprell PLC</a></
+MLD:LN">MirLand Development Corp PLC</a></
+MONY:LN">Moneysupermarket.com Group PLC</a></
+MPE:LN">MP Evans Group PLC</a></
+NEX:LN">National Express Group PLC</a></
+OCDO:LN">Ocado Group PLC</a></
+PNN:LN">Pennon Group PLC</a></
+QQ/:LN">QinetiQ Group PLC</a></
+RNK:LN">Rank Group PLC</a></
+RTO:LN">Rentokil Initial PLC</a></
+RMV:LN">Rightmove PLC</a></
+SVS:LN">Savills PLC</a></
+SHB:LN">Shaftesbury PLC</a></
+SHI:LN">SIG PLC</a></
+TALK:LN">TalkTalk Telecom Group PLC</a></
+VEC:LN">Vectura Group PLC</a></
+VSVS:LN">Vesuvius PLC</a></
+YOU:LN">YouGov PLC</a></
+ZYT:LN">Zytronic PLC</a></
+
