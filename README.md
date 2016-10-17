@@ -13,5 +13,8 @@ Buy stocks- investor.buyStock("III:LON", "max")
 
 Get stock data- stocks = investor.getStocks()
 
-Get team investement date- invs = investor.getInvestements()
+Get team investement data- invs = investor.getInvestements()
 
+
+
+WARNING- if you make too many requests for google stock data, they will just temp block your ip, leading to many 503 Service Denied errors. If this happens, stop your code for a bit, and rewrite it to make fewer requests. 
