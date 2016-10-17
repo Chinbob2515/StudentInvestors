@@ -1,5 +1,0 @@
-Sleeping for: 12:34:01.096287
-Traceback (most recent call last):
-  File "run.py", line 31, in <module>
-    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 9 tomorrow
-KeyboardInterrupt
