@@ -54,6 +54,8 @@ class StudentInvestor():
 		
 		html = self.log.request(self.coreURL+"/portfolio.php")
 		table = html.find(id="stocks")
+		if not table: # If the team has no stocks, return an empty dict
+			return {}
 		rows = table.find_all("tr")[1:]
 		
 		infos = {}
