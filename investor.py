@@ -1,5 +1,5 @@
 import stockinfo, login as loggy, stack, time
-from google import GoogleFinanceAPI
+from googleAPI import GoogleFinanceAPI
 from bs4 import BeautifulSoup
 
 #TODO: make it so it doesn't have to login each time.
