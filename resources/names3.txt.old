@@ -48,10 +48,10 @@ SBRY:LN:J Sainsbury PLC
 JMAT:LN:Johnson Matthey PLC
 KGF:LN:Kingfisher PLC
 LAND:LN:Land Securities Group PLC
-LGEN:LN:Legal &amp; General Group PLC
+LGEN:LN:Legal & General Group PLC
 LLOY:LN:Lloyds Banking Group PLC
 LSE:LN:London Stock Exchange Group PLC
-MKS:LN:Marks &amp; Spencer Group PLC
+MKS:LN:Marks & Spencer Group PLC
 MDC:LN:Mediclinic International PLC
 MERL:LN:Merlin Entertainments PLC
 MCRO:LN:Micro Focus International PLC
@@ -74,13 +74,12 @@ RBS:LN:Royal Bank of Scotland Group PLC
 RDSA:LN:Royal Dutch Shell PLC
 RMG:LN:Royal Mail PLC
 RSA:LN:RSA Insurance Group PLC
-SAB:LN:SABMiller PLC
 SGE:LN:Sage Group PLC/The
 SDR:LN:Schroders PLC
 SVT:LN:Severn Trent PLC
 SHP:LN:Shire PLC
 SKY:LN:Sky PLC
-SN/:LN:Smith &amp; Nephew PLC
+SN/:LN:Smith & Nephew PLC
 SMIN:LN:Smiths Group PLC
 SSE:LN:SSE PLC
 STJ:LN:St James's Place PLC
@@ -99,6 +98,7 @@ WOS:LN:Wolseley PLC
 WPG:LN:Worldpay Group PLC
 WPP:LN:WPP PLC
 ABC:LN:Abcam PLC
+AN/:LN:Alternative Networks PLC
 ASHM:LN:Ashmore Group PLC
 BBA:LN:BBA Aviation PLC
 BKG:LN:Berkeley Group Holdings PLC
@@ -106,7 +106,7 @@ BYG:LN:Big Yellow Group PLC
 BVIC:LN:Britvic PLC
 CHG:LN:Chemring Group PLC
 CCC:LN:Computacenter PLC
-DMGT:LN:Daily Mail &amp; General Trust PLC
+DMGT:LN:Daily Mail & General Trust PLC
 DEB:LN:Debenhams PLC
 DLN:LN:Derwent London PLC
 DSG:LN:Dillistone Group PLC
@@ -147,3 +147,5 @@ VEC:LN:Vectura Group PLC
 VSVS:LN:Vesuvius PLC
 YOU:LN:YouGov PLC
 ZYT:LN:Zytronic PLC
+
+

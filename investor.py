@@ -5,9 +5,6 @@ from bs4 import BeautifulSoup
 #TODO: make it so it doesn't have to login each time.
 #TODO: return a failure code if requests prompt an HTTP fail code
 
-true = True
-false = False #FUCK PYTHON ENFORCING CORRECT CAPITALISATION
-
 class StudentInvestor():
 	
 	def __init__(self, username, password):
@@ -20,7 +17,7 @@ class StudentInvestor():
 		self.log = loggy.Login(self.username, self.password)
 	
 	def _login(self):
-		self.log.doLog()
+		return self.log.doLog()
 	
 	def getStocks(self, LOG=False):
 		
@@ -71,7 +68,7 @@ class StudentInvestor():
 			magicStartIndex = 17 # where in the sentence the max stock number usually is (I know, terrible)
 			resp = self.log.request(self.coreURL+"/stock-sell.php?ticker="+ticker+"&type="+type)
 			list = resp.find_all("ul")[2].find_all("li")[1].contents[0]
-			print "list-", stack.getNum(list[magicStartIndex:])
+			#print "list-", stack.getNum(list[magicStartIndex:])
 			quantity = stack.getNum(list[magicStartIndex:])
 		
 		return self.log.submit(self.coreURL+"/stock-sell.php",
@@ -82,9 +79,13 @@ class StudentInvestor():
 		
 		if quantity == "max":
 			resp = self.log.request(self.coreURL+"/stock-buy.php?ticker="+ticker+"&type="+type)
-			print resp.prettify()
-			list = resp.find_all("ul")[2].find_all("li")[1].contents[0]
-			print "list-", stack.getNum(list[list.index("is")+3:])
+			#print resp.prettify()
+			try:
+				list = resp.find_all("ul")[2].find_all("li")[1].contents[0]
+			except Exception,e:
+				print "ERROR BUYING STOCK-", e
+				return -1
+			#print "list-", stack.getNum(list[list.index("is")+3:])
 			quantity = stack.getNum(list[list.index("is")+3:])
 		
 		return self.log.submit(self.coreURL+"/stock-buy.php",

@@ -7,7 +7,7 @@ def getStockData(google=1):
 
 def getStockDataForGoogle():
 	
-	invalids = ["ARM", "BG", "ALNT", "TCY"] # For some reason these ones always fail to load, crashing everything.
+	invalids = ["ARM", "BG", "ALNT", "TCY", "AN/"] # For some reason these ones always fail to load, crashing everything.
 	invalids = [i+":LN" for i in invalids] # Ticker symbols need to specify it's the london stock exchange (lon[don]).
 	
 	fileT = ""
@@ -15,7 +15,6 @@ def getStockDataForGoogle():
 		fileT = f.read().replace("/The", "").replace("/", ".")
 	
 	stocks = []
-	#return (invalids, "WHAT ARE YOU SAYING?", [':'.join(i.split(":")[:2]) for i in fileT.replace("\r","").split("\n")])
 	for stock in [i for i in fileT.replace("\r","").split("\n") if not (':'.join(i.split(":")[:2])) in invalids and i != '']: # Simple parsing to get only valid stock ticker symbols.
 		stockO = stock.split(":")
 		stockO[1] = "lon"
@@ -25,7 +24,7 @@ def getStockDataForGoogle():
 
 def getStockDataForSI():
 	
-	invalids = ["arm", "bg", "alnt", "tcy"] # For some reason these ones always fail to load, crashing everything.
+	invalids = ["arm", "bg", "alnt", "tcy", "an/"] # For some reason these ones always fail to load, crashing everything.
 	invalids = ["lon:"+i for i in invalids] # Ticker symbols need to specify it's the london stock exchange (lon[don]).
 	
 	fileT = ""

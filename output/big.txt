@@ -1,0 +1,1897 @@
+STARTING BOT
+Sleeping for: 2579.843106 at 2017-01-18 15:37:00.156894
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -66.305312 at 2017-01-18 16:21:06.305312
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:21:06.305312 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -130.929169 at 2017-01-18 16:22:10.929169
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:22:10.929169 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -195.585564 at 2017-01-18 16:23:15.585564
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:23:15.585564 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -259.448857 at 2017-01-18 16:24:19.448857
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:24:19.448857 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -325.295674 at 2017-01-18 16:25:25.295674
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:25:25.295674 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -389.873186 at 2017-01-18 16:26:29.873186
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:26:29.873186 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -456.637745 at 2017-01-18 16:27:36.637745
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:27:36.637745 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -520.646786 at 2017-01-18 16:28:40.646786
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:28:40.646786 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -584.500671 at 2017-01-18 16:29:44.500671
+Oh noes! 2017-01-18 16:20:00 2017-01-18 16:29:44.500671 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: 16:29:10.928000 till tomorrow
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+Sleeping for: 4774.642635 at 2017-01-19 15:00:25.357365
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -65.646246 at 2017-01-19 16:21:05.646246
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:21:05.646246 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -129.639452 at 2017-01-19 16:22:09.639452
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:22:09.639452 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -195.866823 at 2017-01-19 16:23:15.866823
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:23:15.866823 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -262.501377 at 2017-01-19 16:24:22.501377
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:24:22.501377 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -328.913948 at 2017-01-19 16:25:28.913948
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:25:28.913948 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -397.053236 at 2017-01-19 16:26:37.053236
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:26:37.053236 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -462.65518 at 2017-01-19 16:27:42.655180
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:27:42.655180 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -529.939544 at 2017-01-19 16:28:49.939544
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:28:49.939544 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -595.045469 at 2017-01-19 16:29:55.045469
+Oh noes! 2017-01-19 16:20:00 2017-01-19 16:29:55.045469 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: 16:28:59.432172 till tomorrow
+could not convert string to float: 
+STARTING BOT
+Sleeping for: 2 days, 23:58:53.024229 till monday
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+Sleeping for: 4741.984395 at 2017-01-23 15:00:58.015605
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -70.257147 at 2017-01-23 16:21:10.257147
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:21:10.257147 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -137.971077 at 2017-01-23 16:22:17.971077
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:22:17.971077 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -206.441669 at 2017-01-23 16:23:26.441669
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:23:26.441669 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -277.043362 at 2017-01-23 16:24:37.043362
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:24:37.043362 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -345.859373 at 2017-01-23 16:25:45.859373
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:25:45.859373 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -413.728641 at 2017-01-23 16:26:53.728641
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:26:53.728641 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -484.500778 at 2017-01-23 16:28:04.500778
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:28:04.500778 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: -552.537623 at 2017-01-23 16:29:12.537623
+Oh noes! 2017-01-23 16:20:00 2017-01-23 16:29:12.537623 (let's just continue)
+BUYING STUFF NOW
+could not convert string to float: 
+STARTING BOT
+Sleeping for: 16:29:37.777199 till tomorrow
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+could not convert string to float: 
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+HTTP Error 503: Service Unavailable
+STARTING BOT
+could not convert string to float:  None
+STARTING BOT
+HTTP Error 503: Service Unavailable None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+HTTP Error 503: Service Unavailable None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+HTTP Error 503: Service Unavailable None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Current stocks- {}
+SELLING STUFF NOW
+Sleeping for an hour at 2017-01-24 13:01:21.573525
+<urlopen error [Errno -2] Name or service not known> None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Current stocks- {}
+SELLING STUFF NOW
+Sleeping for an hour at 2017-01-24 14:04:04.749610
+Sleeping for: 4555.220609 at 2017-01-24 15:04:04.779391
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -73.003269 at 2017-01-24 16:21:13.003269
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:21:13.003269 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -142.780391 at 2017-01-24 16:22:22.780391
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:22:22.780391 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -211.571891 at 2017-01-24 16:23:31.571891
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:23:31.571891 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -279.779795 at 2017-01-24 16:24:39.779795
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:24:39.779795 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -352.541706 at 2017-01-24 16:25:52.541706
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:25:52.541706 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -422.295067 at 2017-01-24 16:27:02.295067
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:27:02.295067 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -490.985934 at 2017-01-24 16:28:10.985934
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:28:10.985934 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -562.779839 at 2017-01-24 16:29:22.779839
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:29:22.779839 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: 16:29:26.236419 till tomorrow

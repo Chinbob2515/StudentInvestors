@@ -1,5 +1,25 @@
 Change in value!
-iteration:  2 and last- 1476213770.13
+iteration:  2 and last- 1476773066.87
+Change in value!
+iteration:  7 and last- 1476773079.66
+Change in value!
+iteration:  8 and last- 1476776115.54
+Change in value!
+iteration:  10 and last- 1476776723.61
+Change in value!
+iteration:  13 and last- 1476777936.26
+Change in value!
+iteration:  14 and last- 1476779756.13
+Change in value!
+iteration:  17 and last- 1476780365.25
+Change in value!
+iteration:  22 and last- 1476782187.83
+Change in value!
+iteration:  23 and last- 1476785227.61
+Change in value!
+iteration:  25 and last- 1476785834.34
+Change in value!
+iteration:  26 and last- 1476787050.18
 Traceback (most recent call last):
   File "test.py", line 34, in <module>
     func()

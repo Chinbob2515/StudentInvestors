@@ -1,0 +1,70 @@
+STARTING BOT
+HTTP Error 503: Service Unavailable None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+HTTP Error 503: Service Unavailable None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Current stocks- {}
+SELLING STUFF NOW
+Sleeping for an hour at 2017-01-24 13:01:21.573525
+<urlopen error [Errno -2] Name or service not known> None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Current stocks- {}
+SELLING STUFF NOW
+Sleeping for an hour at 2017-01-24 14:04:04.749610
+Sleeping for: 4555.220609 at 2017-01-24 15:04:04.779391
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -73.003269 at 2017-01-24 16:21:13.003269
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:21:13.003269 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -142.780391 at 2017-01-24 16:22:22.780391
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:22:22.780391 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -211.571891 at 2017-01-24 16:23:31.571891
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:23:31.571891 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -279.779795 at 2017-01-24 16:24:39.779795
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:24:39.779795 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -352.541706 at 2017-01-24 16:25:52.541706
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:25:52.541706 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -422.295067 at 2017-01-24 16:27:02.295067
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:27:02.295067 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -490.985934 at 2017-01-24 16:28:10.985934
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:28:10.985934 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: -562.779839 at 2017-01-24 16:29:22.779839
+Oh noes! 2017-01-24 16:20:00 2017-01-24 16:29:22.779839 (let's just continue)
+BUYING STUFF NOW
+list index out of range None
+Sleeping for a minute, hoping it fixes itself
+STARTING BOT
+Sleeping for: 16:29:26.236419 till tomorrow

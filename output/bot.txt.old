@@ -1,0 +1,3086 @@
+Current stocks- {}
+Sleeping for: -26.608575 at 2016-10-17 16:20:26.608575
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -38.678382 at 2016-10-17 16:20:38.678382
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -48.989861 at 2016-10-17 16:20:48.989861
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -60.592081 at 2016-10-17 16:21:00.592081
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -75.066461 at 2016-10-17 16:21:15.066461
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -90.768572 at 2016-10-17 16:21:30.768572
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -101.108917 at 2016-10-17 16:21:41.108917
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -113.294789 at 2016-10-17 16:21:53.294789
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -123.804556 at 2016-10-17 16:22:03.804556
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -134.625688 at 2016-10-17 16:22:14.625688
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -145.513229 at 2016-10-17 16:22:25.513229
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -160.194556 at 2016-10-17 16:22:40.194556
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -172.220526 at 2016-10-17 16:22:52.220526
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -183.495684 at 2016-10-17 16:23:03.495684
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -195.520089 at 2016-10-17 16:23:15.520089
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -207.423144 at 2016-10-17 16:23:27.423144
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -217.808767 at 2016-10-17 16:23:37.808767
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -229.367082 at 2016-10-17 16:23:49.367082
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -240.282137 at 2016-10-17 16:24:00.282137
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -251.802537 at 2016-10-17 16:24:11.802537
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -262.282548 at 2016-10-17 16:24:22.282548
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -272.757368 at 2016-10-17 16:24:32.757368
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -283.747943 at 2016-10-17 16:24:43.747943
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -295.929716 at 2016-10-17 16:24:55.929716
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -307.08149 at 2016-10-17 16:25:07.081490
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -318.158331 at 2016-10-17 16:25:18.158331
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -330.591036 at 2016-10-17 16:25:30.591036
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -340.910449 at 2016-10-17 16:25:40.910449
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 1, in <module>
+    from investor import StudentInvestor
+  File "/home/caleb/investor/investor.py", line 2, in <module>
+    from google import GoogleFinanceAPI
+ImportError: cannot import name GoogleFinanceAPI
+Traceback (most recent call last):
+  File "run.py", line 1, in <module>
+    from investor import StudentInvestor
+  File "/home/caleb/investor/investor.py", line 2, in <module>
+    from google import GoogleFinanceAPI
+ImportError: cannot import name GoogleFinanceAPI
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/google2.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Current stocks- {}
+Sleeping for: 12357.40907 at 2016-10-18 12:54:02.590930
+BUYING - [[142.25, -3.5, u'CHG:LN'], [142.47, -3.28, 'chg:lon']] with ticker CHG:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4329: ordinal not in range(128)
+BUYING - [[173.4, 3.85, u'BARC:LN'], [173.6, 4.05, 'barc:lon']] with ticker BARC:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4323: ordinal not in range(128)
+BUYING - [[178.9, 5.2, u'ITV:LN'], [178.95, 5.25, 'itv:lon']] with ticker ITV:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4318: ordinal not in range(128)
+BUYING - [[210.8, -1.7, u'TALK:LN'], [210.9, -1.6, 'talk:lon']] with ticker TALK:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4337: ordinal not in range(128)
+BUYING - [[116.4, 3.1, u'SHI:LN'], [116.8, 3.5, 'shi:lon']] with ticker SHI:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4318: ordinal not in range(128)
+BUYING - [[203.4, 0.6, u'EVR:LN'], [203.9, 1.1, 'evr:lon']] with ticker EVR:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4320: ordinal not in range(128)
+BUYING - [[286.25, -7.25, u'AN/:LN'], [290.85, -2.65, 'an:lon']] with ticker AN/:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4335: ordinal not in range(128)
+BUYING - [[342.7, 23.3, u'DOM:LN'], [342.8, 23.4, 'dom:lon']] with ticker DOM:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4335: ordinal not in range(128)
+BUYING - [[898.0, 19.0, u'JDW:LN'], [900.5, 21.5, 'jdw:lon']] with ticker JDW:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4330: ordinal not in range(128)
+BUYING - [[87.5, -1.0, u'DSG:LN'], [88.0, -0.5, 'dsg:lon']] with ticker DSG:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4331: ordinal not in range(128)
+BUYING - [[1719.0, 55.0, u'PSN:LN'], [1720.0, 56.0, 'psn:lon']] with ticker PSN:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4324: ordinal not in range(128)
+BUYING - [[386.2, 8.7, u'IAG:LN'], [386.8, 9.3, 'iag:lon']] with ticker IAG:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4355: ordinal not in range(128)
+BUYING - [[55.1, 1.15, u'DEB:LN'], [55.2, 1.25, 'deb:lon']] with ticker DEB:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4324: ordinal not in range(128)
+BUYING - [[383.15, 4.5, u'BT/A:LN'], [383.35, 4.7, 'bt.a:lon']] with ticker BT/A:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4323: ordinal not in range(128)
+BUYING - [[364.4, 3.3, u'VSVS:LN'], [365.1, 4.0, 'vsvs:lon']] with ticker VSVS:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4323: ordinal not in range(128)
+BUYING - [[357.4, 5.8, u'DLG:LN'], [358.3, 6.7, 'dlg:lon']] with ticker DLG:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4342: ordinal not in range(128)
+BUYING - [[87.0, -0.25, u'ETI:LN'], [87.75, 0.5, 'eti:lon']] with ticker ETI:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4330: ordinal not in range(128)
+BUYING - [[280.9, 7.5, u'MONY:LN'], [281.55, 8.15, 'mony:lon']] with ticker MONY:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4341: ordinal not in range(128)
+BUYING - [[177.1, 6.7, u'RBS:LN'], [177.22, 6.82, 'rbs:lon']] with ticker RBS:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4343: ordinal not in range(128)
+BUYING - [[236.0, 6.1, u'GLEN:LN'], [236.25, 6.35, 'glen:lon']] with ticker GLEN:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4323: ordinal not in range(128)
+BUYING - [[677.0, 16.0, u'INF:LN'], [677.5, 16.5, 'inf:lon']] with ticker INF:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4322: ordinal not in range(128)
+BUYING - [[700.0, 18.5, u'CCC:LN'], [703.0, 21.5, 'ccc:lon']] with ticker CCC:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4328: ordinal not in range(128)
+BUYING - [[6950.0, 130.0, u'RRS:LN'], [6955.0, 135.0, 'rrs:lon']] with ticker RRS:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4333: ordinal not in range(128)
+BUYING - [[1055.0, 0.0, u'TUI:LN'], [1056.0, 1.0, 'tui:lon']] with ticker TUI:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4317: ordinal not in range(128)
+BUYING - [[459.8, 7.4, u'MERL:LN'], [460.2, 7.8, 'merl:lon']] with ticker MERL:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4336: ordinal not in range(128)
+BUYING - [[884.0, 3.0, u'ABC:LN'], [884.75, 3.75, 'abc:lon']] with ticker ABC:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4320: ordinal not in range(128)
+BUYING - [[3943.0, 46.0, u'RMV:LN'], [3948.0, 51.0, 'rmv:lon']] with ticker RMV:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4324: ordinal not in range(128)
+BUYING - [[1574.0, 38.0, u'JD/:LN'], [1575.0, 39.0, 'jd:lon']] with ticker JD/:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4332: ordinal not in range(128)
+BUYING - [[2010.0, 35.0, u'GNS:LN'], [2013.0, 38.0, 'gns:lon']] with ticker GNS:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4320: ordinal not in range(128)
+BUYING - [[666.5, 0.5, u'INCH:LN'], [667.0, 1.0, 'inch:lon']] with ticker INCH:LN
+ERROR BUYING STOCK- 'ascii' codec can't encode character u'\u2013' in position 4323: ordinal not in range(128)
+Current stocks- {}
+Sleeping for: -28.080594 at 2016-10-18 16:20:28.080594
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -42.006905 at 2016-10-18 16:20:42.006905
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -53.794733 at 2016-10-18 16:20:53.794733
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -68.519003 at 2016-10-18 16:21:08.519003
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -80.814451 at 2016-10-18 16:21:20.814451
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -93.080258 at 2016-10-18 16:21:33.080258
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -105.281797 at 2016-10-18 16:21:45.281797
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -118.953551 at 2016-10-18 16:21:58.953551
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -132.278448 at 2016-10-18 16:22:12.278448
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -145.135201 at 2016-10-18 16:22:25.135201
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -156.480623 at 2016-10-18 16:22:36.480623
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -168.718773 at 2016-10-18 16:22:48.718773
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -180.307493 at 2016-10-18 16:23:00.307493
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -192.190004 at 2016-10-18 16:23:12.190004
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -205.035953 at 2016-10-18 16:23:25.035953
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -219.039015 at 2016-10-18 16:23:39.039015
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -233.475118 at 2016-10-18 16:23:53.475118
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -244.63168 at 2016-10-18 16:24:04.631680
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -255.449712 at 2016-10-18 16:24:15.449712
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -267.076299 at 2016-10-18 16:24:27.076299
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -278.564903 at 2016-10-18 16:24:38.564903
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -290.342355 at 2016-10-18 16:24:50.342355
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -303.430347 at 2016-10-18 16:25:03.430347
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Current stocks- {}
+Sleeping for: -318.888509 at 2016-10-18 16:25:18.888509
+Traceback (most recent call last):
+  File "run.py", line 56, in <module>
+    if not TEST: sleep(sleepTimeInSeconds) # Sleep until 4:20 today
+IOError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable
+Traceback (most recent call last):
+  File "run.py", line 35, in <module>
+    stocks = investor.getStocks()
+  File "/home/caleb/investor/investor.py", line 43, in getStocks
+    data = self.google.get(comp[0], comp[1])
+  File "/home/caleb/investor/googleAPI.py", line 11, in get
+    u = urllib2.urlopen(url)
+  File "/usr/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 467, in error
+    result = self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 654, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "/usr/lib/python2.7/urllib2.py", line 435, in open
+    response = meth(req, response)
+  File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python2.7/urllib2.py", line 473, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 503: Service Unavailable

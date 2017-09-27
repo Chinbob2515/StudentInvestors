@@ -12,6 +12,9 @@ class GoogleFinanceAPI: # Oh praise stackoverflow, for providing me with this gl
 		content = u.read()
 		
 		obj = json.loads(content[3:])
+		if obj[0]["c"] == "": obj[0]["c"] = "-500" # If any value is missing, assume the worst(ish)
+		if obj[0]["l"] == "": obj[0]["l"] = "-500"
+		if obj[0]["c_fix"] == "": obj[0]["c_fix"] = "-500"
 		obj[0]["value"] = float(obj[0]["l"].replace(",", ""))
 		obj[0]["grad"] = float(obj[0]["c"].replace(",", ""))
 		obj[0]["%"] = float(obj[0]["c_fix"].replace(",", ""))
@@ -26,4 +29,3 @@ if __name__ == "__main__":
 	for stock in stocks:
 		got = c.get(stock[0], stock[1]) # Request stock data from google
 		print (stock[0], stock[1], stock[2]), "is value:", got["value"], "; grad:", got["grad"], "; and %:", got["%"] # Pretty print the received data
-	

@@ -98,7 +98,6 @@ WOS:LN:Wolseley PLC
 WPG:LN:Worldpay Group PLC
 WPP:LN:WPP PLC
 ABC:LN:Abcam PLC
-AN/:LN:Alternative Networks PLC
 ASHM:LN:Ashmore Group PLC
 BBA:LN:BBA Aviation PLC
 BKG:LN:Berkeley Group Holdings PLC
@@ -122,14 +121,12 @@ GNS:LN:Genus PLC
 HFD:LN:Halfords Group PLC
 HWDN:LN:Howden Joinery Group PLC
 HCM:LN:Hutchison China MediTech Ltd
-IAP:LN:ICAP PLC
 INCH:LN:Inchcape PLC
 JDW:LN:J D Wetherspoon PLC
 JD/:LN:JD Sports Fashion PLC
 KBT:LN:K3 Business Technology Group PLC
 KAZ:LN:KAZ Minerals PLC
 LAM:LN:Lamprell PLC
-MLD:LN:MirLand Development Corp PLC
 MONY:LN:Moneysupermarket.com Group PLC
 MPE:LN:MP Evans Group PLC
 NEX:LN:National Express Group PLC
