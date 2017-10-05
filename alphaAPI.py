@@ -6,7 +6,7 @@ class AlphaFinanceAPI:
 	def __init__(self):
 		self.prefix = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=%s&interval=1min&apikey=EJJ81YLLY6C4OLYI"
 	
-	def get(self,symbol):
+	def _get(self,symbol):
 		#if obj[0]["c"] == "": obj[0]["c"] = "-500" # If any value is missing, assume the worst(ish)
 		#if obj[0]["l"] == "": obj[0]["l"] = "-500"
 		#if obj[0]["c_fix"] == "": obj[0]["c_fix"] = "-500"
@@ -26,11 +26,29 @@ class AlphaFinanceAPI:
 		percentChange = grad/value
 		
 		return {"value": value, "grad": grad, "%": percentChange}
+	
+	def get(self, symbol):
+		try:
+			return self._get(symbol)
+		except Exception as e:
+			print "Error getting symbol", symbol
+			print e
+			raise e
+
+instance = None
+def get(symbol):
+	global instance
+	if not instance:
+		instance = AlphaFinanceAPI()
+	return instance.get(symbol)
 
 if __name__ == "__main__":
 	
 	a = AlphaFinanceAPI()
 	print a.get("III")
+	
+	print get("III")
+	print get("III")
 	
 	"""c = GoogleFinanceAPI()
 	
